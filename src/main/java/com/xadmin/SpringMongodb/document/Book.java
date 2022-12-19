@@ -1,4 +1,4 @@
-package com.xadmin.SpringMongodb.collection;
+package com.xadmin.SpringMongodb.document;
 
 import org.springframework.data.mongodb.core.mapping.Document;
 

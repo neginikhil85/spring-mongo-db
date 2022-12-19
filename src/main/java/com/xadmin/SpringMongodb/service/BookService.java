@@ -5,7 +5,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.xadmin.SpringMongodb.collection.Book;
+import com.xadmin.SpringMongodb.document.Book;
 import com.xadmin.SpringMongodb.repository.BookRepository;
 
 @Service

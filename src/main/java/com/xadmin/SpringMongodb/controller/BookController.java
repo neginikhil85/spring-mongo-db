@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.xadmin.SpringMongodb.collection.Book;
+import com.xadmin.SpringMongodb.document.Book;
 import com.xadmin.SpringMongodb.service.BookService;
 
 @RestController 
